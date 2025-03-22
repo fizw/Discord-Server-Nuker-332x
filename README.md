@@ -1,6 +1,6 @@
 # Made by 332x
 
-Press "CODE" and "download as ZIP"
+Press "CODE" and "download ZIP"
 
 Once downloaded, extract it with winrar
 
@@ -14,4 +14,4 @@ Ignore the "proxies.txt"
 
 Afterwards open "Nuker.py" and put your bot token and channel ID
 
-Creditss: @332x
+Credits: @332x
