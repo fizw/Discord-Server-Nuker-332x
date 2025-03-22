@@ -1,4 +1,4 @@
-# Made by 332x | Property of GICF
+# Made by 332x
 
 Open the "channelnames.txt" and input the names of the channels for the bot to make
 
